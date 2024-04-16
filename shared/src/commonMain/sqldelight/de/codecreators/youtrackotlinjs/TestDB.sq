@@ -1,0 +1,5 @@
+insertTest:
+INSERT INTO Test (text) VALUES (?);
+
+getTest:
+SELECT * FROM Test;
